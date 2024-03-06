@@ -21,6 +21,3 @@ The primary objective of this project is to demonstrate the application of logis
 
 **Repository Link:**
 [Regression_Model/Logistic Regression Scenario 1 Completed-checkpoint.ipynb](https://github.com/Caleb-sage/Regression_Model)
-
-**Note:**
-This project serves as a valuable resource for understanding logistic regression techniques and their practical application in data science projects. It is intended for educational and demonstrative purposes, showcasing best practices in machine learning model development and evaluation.
